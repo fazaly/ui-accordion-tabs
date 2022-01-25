@@ -1,0 +1,11 @@
+#kasem, .demo{
+  width: 60%;
+  margin: 20px auto;
+  text-align: justify;
+}
+#kasem h2{
+  font-weight: bold;
+}
+.demo ul li a{
+  font-weight: bold;
+}
